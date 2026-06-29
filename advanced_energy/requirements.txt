@@ -1,0 +1,23 @@
+# --- Core agent / orchestration ---
+langgraph>=0.2.40
+langchain>=0.3.7
+langchain-core>=0.3.15
+langchain-community>=0.3.5
+langchain-google-genai>=2.0.4
+langchain-huggingface>=0.1.2
+
+# --- Embeddings / vector store ---
+sentence-transformers>=3.3.0
+# Pin to 4.x: transformers 5.x lazily imports torchvision (unused for text
+# embeddings) and crashes when it is absent. 4.x avoids that extra dependency.
+transformers>=4.41,<5
+faiss-cpu>=1.9.0
+
+# --- Data / utils ---
+pandas>=2.2.0
+numpy>=1.26.0
+pydantic>=2.9.0
+python-dotenv>=1.0.1
+
+# --- UI ---
+streamlit>=1.40.0
