@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+.DS_Store
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Runtime state produced by agent runs
+data/audit_log.jsonl
+data/long_term_memory.json

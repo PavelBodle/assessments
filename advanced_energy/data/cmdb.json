@@ -1,0 +1,929 @@
+{
+  "USR-00103": {
+    "requester_id": "USR-00103",
+    "asset_tag": "AST-2354",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Legal",
+    "last_seen": "2025-03-31T17:54"
+  },
+  "USR-00104": {
+    "requester_id": "USR-00104",
+    "asset_tag": "AST-2562",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Legal",
+    "last_seen": "2025-05-31T15:17"
+  },
+  "USR-00109": {
+    "requester_id": "USR-00109",
+    "asset_tag": "AST-1762",
+    "device_model": "Dell Latitude 5440",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.0",
+    "department": "Ops",
+    "last_seen": "2025-05-30T08:11"
+  },
+  "USR-00112": {
+    "requester_id": "USR-00112",
+    "asset_tag": "AST-6152",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Finance",
+    "last_seen": "2025-04-17T09:19"
+  },
+  "USR-00113": {
+    "requester_id": "USR-00113",
+    "asset_tag": "AST-3661",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.0",
+    "department": "Marketing",
+    "last_seen": "2025-05-24T13:24"
+  },
+  "USR-00114": {
+    "requester_id": "USR-00114",
+    "asset_tag": "AST-3292",
+    "device_model": "Dell Latitude 5440",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.1",
+    "department": "Engineering",
+    "last_seen": "2025-01-19T09:27"
+  },
+  "USR-00116": {
+    "requester_id": "USR-00116",
+    "asset_tag": "AST-4803",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Legal",
+    "last_seen": "2025-04-17T13:01"
+  },
+  "USR-00118": {
+    "requester_id": "USR-00118",
+    "asset_tag": "AST-5478",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Engineering",
+    "last_seen": "2025-05-27T14:27"
+  },
+  "USR-00119": {
+    "requester_id": "USR-00119",
+    "asset_tag": "AST-4043",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Engineering",
+    "last_seen": "2025-03-10T09:05"
+  },
+  "USR-00121": {
+    "requester_id": "USR-00121",
+    "asset_tag": "AST-5390",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Legal",
+    "last_seen": "2025-02-14T14:20"
+  },
+  "USR-00122": {
+    "requester_id": "USR-00122",
+    "asset_tag": "AST-6909",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Engineering",
+    "last_seen": "2025-04-29T13:48"
+  },
+  "USR-00123": {
+    "requester_id": "USR-00123",
+    "asset_tag": "AST-5419",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Finance",
+    "last_seen": "2025-04-26T15:35"
+  },
+  "USR-00124": {
+    "requester_id": "USR-00124",
+    "asset_tag": "AST-9395",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Sales",
+    "last_seen": "2025-04-06T16:05"
+  },
+  "USR-00125": {
+    "requester_id": "USR-00125",
+    "asset_tag": "AST-6315",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.0",
+    "department": "HR",
+    "last_seen": "2025-04-15T09:46"
+  },
+  "USR-00129": {
+    "requester_id": "USR-00129",
+    "asset_tag": "AST-4977",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.0",
+    "department": "Finance",
+    "last_seen": "2025-02-10T12:19"
+  },
+  "USR-00130": {
+    "requester_id": "USR-00130",
+    "asset_tag": "AST-5397",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Finance",
+    "last_seen": "2025-04-27T12:26"
+  },
+  "USR-00132": {
+    "requester_id": "USR-00132",
+    "asset_tag": "AST-5911",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Engineering",
+    "last_seen": "2025-03-10T15:38"
+  },
+  "USR-00133": {
+    "requester_id": "USR-00133",
+    "asset_tag": "AST-4203",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Engineering",
+    "last_seen": "2025-01-07T14:21"
+  },
+  "USR-00134": {
+    "requester_id": "USR-00134",
+    "asset_tag": "AST-7224",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "HR",
+    "last_seen": "2025-02-09T12:20"
+  },
+  "USR-00135": {
+    "requester_id": "USR-00135",
+    "asset_tag": "AST-4290",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "HR",
+    "last_seen": "2025-03-28T12:47"
+  },
+  "USR-00137": {
+    "requester_id": "USR-00137",
+    "asset_tag": "AST-9044",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Engineering",
+    "last_seen": "2025-04-16T13:07"
+  },
+  "USR-00138": {
+    "requester_id": "USR-00138",
+    "asset_tag": "AST-4273",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.1",
+    "department": "Sales",
+    "last_seen": "2025-05-04T11:28"
+  },
+  "USR-00139": {
+    "requester_id": "USR-00139",
+    "asset_tag": "AST-5773",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "HR",
+    "last_seen": "2025-02-10T12:15"
+  },
+  "USR-00141": {
+    "requester_id": "USR-00141",
+    "asset_tag": "AST-5139",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.0",
+    "department": "Legal",
+    "last_seen": "2025-04-12T09:28"
+  },
+  "USR-00145": {
+    "requester_id": "USR-00145",
+    "asset_tag": "AST-8851",
+    "device_model": "HP EliteBook 840",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.1",
+    "department": "Legal",
+    "last_seen": "2025-04-23T16:02"
+  },
+  "USR-00146": {
+    "requester_id": "USR-00146",
+    "asset_tag": "AST-6890",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Marketing",
+    "last_seen": "2025-04-06T10:41"
+  },
+  "USR-00147": {
+    "requester_id": "USR-00147",
+    "asset_tag": "AST-1725",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Sales",
+    "last_seen": "2025-01-08T09:16"
+  },
+  "USR-00154": {
+    "requester_id": "USR-00154",
+    "asset_tag": "AST-4637",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "HR",
+    "last_seen": "2025-05-04T17:44"
+  },
+  "USR-00155": {
+    "requester_id": "USR-00155",
+    "asset_tag": "AST-9199",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "HR",
+    "last_seen": "2025-02-01T12:26"
+  },
+  "USR-00156": {
+    "requester_id": "USR-00156",
+    "asset_tag": "AST-2406",
+    "device_model": "Dell Latitude 5440",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "Engineering",
+    "last_seen": "2025-03-26T13:29"
+  },
+  "USR-00158": {
+    "requester_id": "USR-00158",
+    "asset_tag": "AST-4389",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Sales",
+    "last_seen": "2025-04-28T15:20"
+  },
+  "USR-00161": {
+    "requester_id": "USR-00161",
+    "asset_tag": "AST-2100",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Sales",
+    "last_seen": "2025-01-11T13:41"
+  },
+  "USR-00162": {
+    "requester_id": "USR-00162",
+    "asset_tag": "AST-2791",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "Ops",
+    "last_seen": "2025-02-19T16:10"
+  },
+  "USR-00163": {
+    "requester_id": "USR-00163",
+    "asset_tag": "AST-6422",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Legal",
+    "last_seen": "2025-04-19T10:11"
+  },
+  "USR-00164": {
+    "requester_id": "USR-00164",
+    "asset_tag": "AST-8080",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Ops",
+    "last_seen": "2025-02-25T15:37"
+  },
+  "USR-00166": {
+    "requester_id": "USR-00166",
+    "asset_tag": "AST-8037",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Finance",
+    "last_seen": "2025-02-27T12:48"
+  },
+  "USR-00167": {
+    "requester_id": "USR-00167",
+    "asset_tag": "AST-2025",
+    "device_model": "Dell Latitude 5440",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "Engineering",
+    "last_seen": "2025-03-30T11:29"
+  },
+  "USR-00169": {
+    "requester_id": "USR-00169",
+    "asset_tag": "AST-2867",
+    "device_model": "MacBook Pro 14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.0",
+    "department": "Ops",
+    "last_seen": "2025-03-27T17:24"
+  },
+  "USR-00171": {
+    "requester_id": "USR-00171",
+    "asset_tag": "AST-7431",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Legal",
+    "last_seen": "2025-05-03T17:11"
+  },
+  "USR-00172": {
+    "requester_id": "USR-00172",
+    "asset_tag": "AST-5873",
+    "device_model": "Dell Latitude 5440",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "Engineering",
+    "last_seen": "2025-02-05T11:19"
+  },
+  "USR-00173": {
+    "requester_id": "USR-00173",
+    "asset_tag": "AST-2916",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Finance",
+    "last_seen": "2025-05-16T14:26"
+  },
+  "USR-00174": {
+    "requester_id": "USR-00174",
+    "asset_tag": "AST-3258",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "HR",
+    "last_seen": "2025-05-23T10:35"
+  },
+  "USR-00175": {
+    "requester_id": "USR-00175",
+    "asset_tag": "AST-3733",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Finance",
+    "last_seen": "2025-03-27T15:39"
+  },
+  "USR-00176": {
+    "requester_id": "USR-00176",
+    "asset_tag": "AST-1878",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Finance",
+    "last_seen": "2025-02-24T14:35"
+  },
+  "USR-00177": {
+    "requester_id": "USR-00177",
+    "asset_tag": "AST-9281",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "HR",
+    "last_seen": "2025-04-22T15:31"
+  },
+  "USR-00178": {
+    "requester_id": "USR-00178",
+    "asset_tag": "AST-3740",
+    "device_model": "Dell Latitude 5440",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "Legal",
+    "last_seen": "2025-03-03T12:02"
+  },
+  "USR-00179": {
+    "requester_id": "USR-00179",
+    "asset_tag": "AST-5503",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.0",
+    "department": "Finance",
+    "last_seen": "2025-05-03T17:47"
+  },
+  "USR-00180": {
+    "requester_id": "USR-00180",
+    "asset_tag": "AST-9115",
+    "device_model": "Dell Latitude 5440",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "Engineering",
+    "last_seen": "2025-05-25T13:34"
+  },
+  "USR-00182": {
+    "requester_id": "USR-00182",
+    "asset_tag": "AST-1681",
+    "device_model": "HP EliteBook 840",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "HR",
+    "last_seen": "2025-02-01T11:19"
+  },
+  "USR-00183": {
+    "requester_id": "USR-00183",
+    "asset_tag": "AST-1528",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Legal",
+    "last_seen": "2025-01-28T15:55"
+  },
+  "USR-00184": {
+    "requester_id": "USR-00184",
+    "asset_tag": "AST-2923",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Ops",
+    "last_seen": "2025-04-05T17:40"
+  },
+  "USR-00185": {
+    "requester_id": "USR-00185",
+    "asset_tag": "AST-8015",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "Legal",
+    "last_seen": "2025-02-27T11:51"
+  },
+  "USR-00187": {
+    "requester_id": "USR-00187",
+    "asset_tag": "AST-1972",
+    "device_model": "MacBook Pro 14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.0",
+    "department": "Ops",
+    "last_seen": "2025-05-23T10:20"
+  },
+  "USR-00189": {
+    "requester_id": "USR-00189",
+    "asset_tag": "AST-5794",
+    "device_model": "MacBook Pro 14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.0",
+    "department": "Legal",
+    "last_seen": "2025-05-17T09:08"
+  },
+  "USR-00191": {
+    "requester_id": "USR-00191",
+    "asset_tag": "AST-7743",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Finance",
+    "last_seen": "2025-02-08T11:09"
+  },
+  "USR-00192": {
+    "requester_id": "USR-00192",
+    "asset_tag": "AST-6277",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.0",
+    "department": "HR",
+    "last_seen": "2025-02-11T17:40"
+  },
+  "USR-00193": {
+    "requester_id": "USR-00193",
+    "asset_tag": "AST-5402",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Sales",
+    "last_seen": "2025-01-29T14:32"
+  },
+  "USR-00196": {
+    "requester_id": "USR-00196",
+    "asset_tag": "AST-5558",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Engineering",
+    "last_seen": "2025-06-03T08:55"
+  },
+  "USR-00197": {
+    "requester_id": "USR-00197",
+    "asset_tag": "AST-2526",
+    "device_model": "HP EliteBook 840",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.1",
+    "department": "Marketing",
+    "last_seen": "2025-04-07T09:50"
+  },
+  "USR-00201": {
+    "requester_id": "USR-00201",
+    "asset_tag": "AST-9756",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Legal",
+    "last_seen": "2025-03-01T15:17"
+  },
+  "USR-00202": {
+    "requester_id": "USR-00202",
+    "asset_tag": "AST-6289",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Ops",
+    "last_seen": "2025-02-08T17:54"
+  },
+  "USR-00203": {
+    "requester_id": "USR-00203",
+    "asset_tag": "AST-8951",
+    "device_model": "MacBook Pro 14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "Sales",
+    "last_seen": "2025-01-31T15:01"
+  },
+  "USR-00204": {
+    "requester_id": "USR-00204",
+    "asset_tag": "AST-3035",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Sales",
+    "last_seen": "2025-04-25T11:44"
+  },
+  "USR-00205": {
+    "requester_id": "USR-00205",
+    "asset_tag": "AST-3161",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Sales",
+    "last_seen": "2025-04-08T12:05"
+  },
+  "USR-00206": {
+    "requester_id": "USR-00206",
+    "asset_tag": "AST-7092",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Marketing",
+    "last_seen": "2025-03-25T11:27"
+  },
+  "USR-00207": {
+    "requester_id": "USR-00207",
+    "asset_tag": "AST-2494",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "HR",
+    "last_seen": "2025-01-25T10:37"
+  },
+  "USR-00208": {
+    "requester_id": "USR-00208",
+    "asset_tag": "AST-4705",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Marketing",
+    "last_seen": "2025-04-03T09:55"
+  },
+  "USR-00209": {
+    "requester_id": "USR-00209",
+    "asset_tag": "AST-7919",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Finance",
+    "last_seen": "2025-04-14T09:46"
+  },
+  "USR-00210": {
+    "requester_id": "USR-00210",
+    "asset_tag": "AST-2678",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Engineering",
+    "last_seen": "2025-02-10T14:49"
+  },
+  "USR-00212": {
+    "requester_id": "USR-00212",
+    "asset_tag": "AST-3181",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Ops",
+    "last_seen": "2025-01-08T17:41"
+  },
+  "USR-00215": {
+    "requester_id": "USR-00215",
+    "asset_tag": "AST-3688",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Finance",
+    "last_seen": "2025-02-13T14:39"
+  },
+  "USR-00216": {
+    "requester_id": "USR-00216",
+    "asset_tag": "AST-8248",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Finance",
+    "last_seen": "2025-02-06T17:46"
+  },
+  "USR-00217": {
+    "requester_id": "USR-00217",
+    "asset_tag": "AST-7291",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Legal",
+    "last_seen": "2025-02-10T11:17"
+  },
+  "USR-00218": {
+    "requester_id": "USR-00218",
+    "asset_tag": "AST-2380",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.1",
+    "department": "Ops",
+    "last_seen": "2025-03-19T08:54"
+  },
+  "USR-00219": {
+    "requester_id": "USR-00219",
+    "asset_tag": "AST-5942",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.1",
+    "department": "Ops",
+    "last_seen": "2025-02-23T14:18"
+  },
+  "USR-00220": {
+    "requester_id": "USR-00220",
+    "asset_tag": "AST-1894",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Sales",
+    "last_seen": "2025-03-08T15:40"
+  },
+  "USR-00221": {
+    "requester_id": "USR-00221",
+    "asset_tag": "AST-2163",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Finance",
+    "last_seen": "2025-04-15T17:26"
+  },
+  "USR-00224": {
+    "requester_id": "USR-00224",
+    "asset_tag": "AST-6986",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Sales",
+    "last_seen": "2025-06-05T09:00"
+  },
+  "USR-00225": {
+    "requester_id": "USR-00225",
+    "asset_tag": "AST-5295",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Legal",
+    "last_seen": "2025-04-17T16:18"
+  },
+  "USR-00228": {
+    "requester_id": "USR-00228",
+    "asset_tag": "AST-9209",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "HR",
+    "last_seen": "2025-01-27T16:34"
+  },
+  "USR-00229": {
+    "requester_id": "USR-00229",
+    "asset_tag": "AST-3501",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Sales",
+    "last_seen": "2025-05-16T11:51"
+  },
+  "USR-00232": {
+    "requester_id": "USR-00232",
+    "asset_tag": "AST-3545",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Marketing",
+    "last_seen": "2025-01-22T12:44"
+  },
+  "USR-00233": {
+    "requester_id": "USR-00233",
+    "asset_tag": "AST-8167",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Sales",
+    "last_seen": "2025-04-27T09:29"
+  },
+  "USR-00234": {
+    "requester_id": "USR-00234",
+    "asset_tag": "AST-1901",
+    "device_model": "MacBook Pro 14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.1",
+    "department": "Marketing",
+    "last_seen": "2025-02-19T09:00"
+  },
+  "USR-00237": {
+    "requester_id": "USR-00237",
+    "asset_tag": "AST-3248",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Engineering",
+    "last_seen": "2025-05-19T16:50"
+  },
+  "USR-00238": {
+    "requester_id": "USR-00238",
+    "asset_tag": "AST-5247",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Marketing",
+    "last_seen": "2025-03-15T09:49"
+  },
+  "USR-00239": {
+    "requester_id": "USR-00239",
+    "asset_tag": "AST-1480",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Ops",
+    "last_seen": "2025-01-22T12:45"
+  },
+  "USR-00240": {
+    "requester_id": "USR-00240",
+    "asset_tag": "AST-2262",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Engineering",
+    "last_seen": "2025-01-20T15:54"
+  },
+  "USR-00241": {
+    "requester_id": "USR-00241",
+    "asset_tag": "AST-3734",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Legal",
+    "last_seen": "2025-02-01T17:43"
+  },
+  "USR-00242": {
+    "requester_id": "USR-00242",
+    "asset_tag": "AST-2889",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.1",
+    "department": "Sales",
+    "last_seen": "2025-01-17T08:15"
+  },
+  "USR-00244": {
+    "requester_id": "USR-00244",
+    "asset_tag": "AST-1753",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Finance",
+    "last_seen": "2025-02-20T08:35"
+  },
+  "USR-00246": {
+    "requester_id": "USR-00246",
+    "asset_tag": "AST-7870",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "HR",
+    "last_seen": "2025-03-28T12:52"
+  },
+  "USR-00247": {
+    "requester_id": "USR-00247",
+    "asset_tag": "AST-2276",
+    "device_model": "MacBook Pro 14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.1",
+    "department": "Marketing",
+    "last_seen": "2025-01-19T10:14"
+  },
+  "USR-00249": {
+    "requester_id": "USR-00249",
+    "asset_tag": "AST-9450",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "HR",
+    "last_seen": "2025-03-19T12:20"
+  },
+  "USR-00250": {
+    "requester_id": "USR-00250",
+    "asset_tag": "AST-2415",
+    "device_model": "HP EliteBook 840",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Finance",
+    "last_seen": "2025-03-21T17:50"
+  },
+  "USR-00251": {
+    "requester_id": "USR-00251",
+    "asset_tag": "AST-5979",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Ops",
+    "last_seen": "2025-05-12T11:46"
+  },
+  "USR-00253": {
+    "requester_id": "USR-00253",
+    "asset_tag": "AST-9954",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 23H2",
+    "vpn_client_version": "5.1.3",
+    "department": "HR",
+    "last_seen": "2025-01-12T11:34"
+  },
+  "USR-00254": {
+    "requester_id": "USR-00254",
+    "asset_tag": "AST-6675",
+    "device_model": "Dell Latitude 5440",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.1.3",
+    "department": "Legal",
+    "last_seen": "2025-04-12T12:06"
+  },
+  "USR-00255": {
+    "requester_id": "USR-00255",
+    "asset_tag": "AST-4361",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "Windows 11 22H2",
+    "vpn_client_version": "5.2.0",
+    "department": "Sales",
+    "last_seen": "2025-02-11T12:05"
+  },
+  "USR-00256": {
+    "requester_id": "USR-00256",
+    "asset_tag": "AST-1719",
+    "device_model": "Lenovo ThinkPad T14",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.0",
+    "department": "Marketing",
+    "last_seen": "2025-04-11T15:47"
+  },
+  "USR-00257": {
+    "requester_id": "USR-00257",
+    "asset_tag": "AST-2391",
+    "device_model": "Dell Latitude 5440",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "Marketing",
+    "last_seen": "2025-04-16T09:37"
+  },
+  "USR-00259": {
+    "requester_id": "USR-00259",
+    "asset_tag": "AST-2020",
+    "device_model": "HP EliteBook 840",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.1.3",
+    "department": "Finance",
+    "last_seen": "2025-03-21T12:54"
+  },
+  "USR-00260": {
+    "requester_id": "USR-00260",
+    "asset_tag": "AST-6161",
+    "device_model": "HP EliteBook 840",
+    "os": "macOS 14.5",
+    "vpn_client_version": "5.2.1",
+    "department": "Engineering",
+    "last_seen": "2025-03-28T15:17"
+  }
+}
